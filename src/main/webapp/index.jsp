@@ -15,9 +15,7 @@
 </head>
 <body>
 <h1>스터디 나라~</h1>
-
-
-
+<h1>수정된 스터디 나라~</h1>
 <nav class="navbar navbar-default">
   <div class="container-fluid">
     <div class="navbar-header">
