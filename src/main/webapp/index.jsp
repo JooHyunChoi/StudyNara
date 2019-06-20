@@ -111,6 +111,10 @@
            <option value="">카테고리2</option>
            <option value="">카테고리2</option>
            <option value="">카테고리2</option>
+           <option value="">카테고리2</option>
+           <option value="">카테고리2</option>
+           <option value="">카테고리2</option>
+           <option value="">카테고리2</option>
            
            
         </select>
