@@ -107,14 +107,7 @@
         
         <select name="category2">
            <option value="">카테고리2</option>
-           <option value="">카테고리2</option>
-           <option value="">카테고리2</option>
-           <option value="">카테고리2</option>
-           <option value="">카테고리2</option>
-           <option value="">카테고리2</option>
-           <option value="">카테고리2</option>
-           <option value="">카테고리2</option>
-           <option value="">카테고리2</option>
+           <option value="">버젼관리가 되었으면 좋겟어</option>
            
            
         </select>
